@@ -1,0 +1,148 @@
+*{
+    font-family: 'Alexandria', sans-serif;;
+  }
+  
+p{
+  margin-right: 3rem;
+  text-align:justify;
+  position: relative;
+  top:5px;
+}
+
+#hospedagem a{
+  text-decoration: underline;
+}
+
+body {
+    background-color:#E8F9FD;
+  }
+
+a{
+  color:black;
+  text-decoration:none;
+}
+
+.navbar-expand-lg{
+    background-color: transparent;
+}
+
+.off-canvas{
+  background-color: transparent;
+}
+
+.container22{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.lugar{
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.divtexto{
+padding: 1rem;
+margin: 1rem;
+}
+
+.divfoto{
+  padding: 1rem;
+  margin: 2rem;
+}
+.divfoto img{
+  width: 30rem;
+  height: auto;
+}
+
+.textHospedagem{
+  padding: 2rem;
+  margin: 3rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.avaliação{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.avaliação img{
+  width: 2rem;
+  height: auto;
+  padding: 0.3rem;
+  filter: brightness(0%); 
+}
+
+.avaliação img:hover{
+  filter: brightness(100%); 
+}
+
+.tituloHospedagem{
+  margin-bottom: 1.5rem;
+}
+ 
+#fotovialago {
+  display: flex;
+  position: relative;
+  top: 23rem;
+}
+
+#fotovialago2 {
+  display: flex;
+  position: relative;
+  top: 25rem;
+}
+
+#fotovialago3 {
+  display: flex;
+  position: relative;
+  top: 27rem;
+}
+
+#fotovialago4 {
+  display: flex;
+  position: relative;
+  top: 30rem;
+}
+
+#hospedagem h1{
+  position: relative;
+  margin-right: 16px;
+  font-style: bold;
+  color: rgb(151, 15, 15);
+  text-align: justify;
+}
+
+h2{
+  position: relative;
+  top: 20px;
+  font-style: bold;
+  margin-right: 16px;
+  text-align: justify;
+  text-transform: uppercase;
+}
+
+h4{
+  font-style: bold;
+  position: relative;
+  top: 20px;
+  margin-right: 16px;
+  text-align: justify;
+  text-transform: uppercase;
+  line-height: 80px;
+}
+
+h1{
+  margin-right: 1rem;
+  font-style: bold;
+  text-align: justify;
+}
+
+#locais{
+  text-decoration: underline;
+  color: #367cc2;
+}
